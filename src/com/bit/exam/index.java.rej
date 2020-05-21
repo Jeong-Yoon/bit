@@ -1,0 +1,9 @@
+diff a/src/com/bit/exam/index.java b/src/com/bit/exam/index.java	(rejected hunks)
+@@ -3,6 +3,7 @@
+ public class index {
+ 	public static void main(String[] args) {
+ 		System.out.println("123");
++<<<<<<< HEAD
+ 		System.out.println("�浹�浵��~~~~~");
+ =======
+ 		System.out.println("456");

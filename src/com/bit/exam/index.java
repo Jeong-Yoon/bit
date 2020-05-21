@@ -5,5 +5,6 @@ public class index {
 		System.out.println("123");
 		System.out.println("충돌충도루~~~~~");
 		System.out.println("~~~~~");
+		System.out.println("내꺼");
 	}
 }
